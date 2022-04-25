@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = messa57fr@gmail.com
+	name = Samuel Coizet
